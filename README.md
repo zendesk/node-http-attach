@@ -2,7 +2,7 @@
 write services that attach to existing httpServer instances
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-[![Build Status](https://travis-ci.org/zendesk/node-http-attach.svg?branch=master)](https://travis-ci.org/zendesk/radar)
+[![Build Status](https://travis-ci.org/zendesk/node-http-attach.svg?branch=master)](https://travis-ci.org/zendesk/node-http-attach)
 
 
 ## what's this for?
